@@ -7,5 +7,5 @@ export default defineConfig({
   // IMPORTANT: Replace this with the name of your GitHub repository.
   // For example, if your repository URL is https://github.com/user/my-app,
   // then the base should be '/my-app/'.
-  base: '/<YOUR_REPOSITORY_NAME>/',
+  base: '3rdPartyRiskAssessment',
 });
