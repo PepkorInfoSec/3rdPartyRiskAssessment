@@ -1,0 +1,5 @@
+{
+  "name": "Vendor Risk Tier Assessment",
+  "description": "A simple web application to help determine a vendor's risk tier by answering six yes/no questions, and provides a corresponding list of follow-up questions for the vendor.",
+  "requestFramePermissions": []
+}
